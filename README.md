@@ -1,2 +1,2 @@
 # tility
-Set of modular commonly used utility functions to ease your workflow.
+A modular, tree shakable library for commonly used utility functions in JavaScript/TypeScript to ease your workflow.
