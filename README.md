@@ -1,2 +1,2 @@
 # tility
-Set of modular utility functions to ease your workflow.
+Set of modular commonly used utility functions to ease your workflow.
